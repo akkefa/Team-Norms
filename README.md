@@ -1,7 +1,25 @@
-# Team Norms Repository  
-Welcome to the **Team Norms** repository! This is the single source of truth for how our technical team collaborates, stays accountable, and grows together.  
+# Team Norms for 10x Engineering Performance
 
-## Categories  
-1. **[Collaboration](/collaboration/README.md)**: How we work together effectively.  
-2. **[Accountability](/accountability/README.md)**: How we own outcomes and measure success.  
-3. **[Growth](/growth/README.md)**: How we learn, innovate, and scale capabilities.  
+This repository contains our playbook for achieving 100% team growth while enabling 10x engineer performance through leadership, technical excellence, and process optimization.
+
+To lead a team of engineers toward 100% growth and enable each engineer to perform at a 10x level, focus on a combination of leadership, culture, processes, tools, and talent development. This repository is a living document that will evolve as we learn and grow together.
+
+
+## Core Principles
+- **Leadership-Driven Execution**
+- **Continuous Talent Acceleration** 
+- **Relentless Automation**
+- **Metrics-First Mentality**
+
+## Table of Contents
+1. [Leadership & Vision](leadership-vision.md)
+2. [Hiring & Talent Development](2-hiring-talent.md)
+3. [Culture of Excellence](culture-excellence.md)
+4. [Technical Leverage](4-technical-leverage.md)
+5. [Process Optimization](5-process-optimization.md)
+6. [Innovation & Collaboration](6-innovation-collab.md)
+7. [Performance Amplifiers](7-performance-amplifiers.md)
+8. [Scaling the 10x Mindset](8-scaling-mindset.md)
+9. [Growth Roadmap](roadmap.md)
+10. [Pitfalls to Avoid](pitfalls.md)
+
