@@ -1,8 +1,6 @@
 # Team Norms for 10x Engineering Performance
 
-This repository contains our playbook for achieving 100% team growth while enabling 10x engineer performance through leadership, technical excellence, and process optimization.
-
-To lead a team of engineers toward 100% growth and enable each engineer to perform at a 10x level, focus on a combination of leadership, culture, processes, tools, and talent development. This repository is a living document that will evolve as we learn and grow together.
+This repository contains our playbook for achieving 100% team growth while enabling 10x engineer performance through leadership, technical excellence, and process optimization. This repository is a living document that will evolve as we learn and grow together.
 
 
 ## Core Principles
@@ -12,7 +10,7 @@ To lead a team of engineers toward 100% growth and enable each engineer to perfo
 - **Metrics-First Mentality**
 
 ## Table of Contents
-1. [Leadership & Vision](leadership-vision.md)
+1. [Leadership & Vision](content/leadership-vision.md)
 2. [Hiring & Talent Development](2-hiring-talent.md)
 3. [Culture of Excellence](culture-excellence.md)
 4. [Technical Leverage](4-technical-leverage.md)
