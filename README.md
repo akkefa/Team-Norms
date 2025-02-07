@@ -10,7 +10,7 @@ This repository contains our playbook for achieving 100% team growth while enabl
 - **Metrics-First Mentality**
 
 ## Table of Contents
-1. [Leadership & Vision](content/leadership-vision.md)
+1. [Leadership, Vision and alignment with goals](norms/leadership-vision.md)
 2. [Hiring & Talent Development](2-hiring-talent.md)
 3. [Culture of Excellence](culture-excellence.md)
 4. [Technical Leverage](4-technical-leverage.md)
