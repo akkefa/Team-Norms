@@ -10,8 +10,18 @@ Leadership sets the tone for psychological safety, motivation, and direction. Gr
 - **Servant Leadership**: Prioritize team needs over ego (e.g., remove blockers, provide resources).  
   - *Example*: Jeff Sutherland (Scrum co-creator) emphasizes leaders who "clear the path" for teams.
 - **Transparency**: Share context (business goals, challenges) to build trust.
+- **Empathy and Active Listening:** Understand the challenges, aspirations, and ideas of your team members.
+- **Decisiveness with Flexibility:** Make informed decisions swiftly, remaining open to feedback.
+- **Modeling Behavior:** Lead by example in work ethic, creativity, and resilience.
+- **Mentorship and Continuous Learning:** Promote professional growth and provide development opportunities.
 - **Psychological Safety**: Create an environment where failure is a learning tool (see [Google’s Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/)).
   - *Action*: Encourage open retrospectives where mistakes are discussed without blame.
+
+### Strategies to Enhance Leadership
+
+- **Regular One-on-Ones:** Establish forums for open discussion and feedback.
+- **360-Degree Feedback:** Use peer reviews, self-assessments, and direct feedback to drive improvement.
+- **Leadership Training Programs:** Invest in continuous leadership development for both new and experienced leaders.
 
 #### Books
 - *[Leaders Eat Last](https://simonsinek.com/books/leaders-eat-last/)* by Simon Sinek (trust and safety).
