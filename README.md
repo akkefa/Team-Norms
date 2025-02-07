@@ -11,7 +11,7 @@ This repository contains our playbook for achieving 100% team growth while enabl
 
 ## Table of Contents
 1. [Leadership, Vision and alignment with goals](norms/leadership-vision.md)
-2. [Hiring & Talent Development](2-hiring-talent.md)
+2. [Talent Development](norms/talent-development.md)
 3. [Culture of Excellence](culture-excellence.md)
 4. [Technical Leverage](4-technical-leverage.md)
 5. [Process Optimization](5-process-optimization.md)

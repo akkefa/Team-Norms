@@ -1,4 +1,4 @@
-# Leadership, Vision, & Goal Alignment
+# Leadership, Vision & Goal Alignment
 
 
 ## 1. Leadership: The Foundation of High-Performing Teams
