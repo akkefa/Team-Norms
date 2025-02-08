@@ -14,7 +14,7 @@ This repository contains our playbook for achieving 100% team growth while enabl
 2. [Talent Development](norms/talent-development.md)
 3. [Culture of Excellence](norms/culture-excellence.md)
 4. [Technical Leverage](norms/technical-leverage.md)
-5. [Process Optimization](5-process-optimization.md)
+5. [Process Optimization](norms/process-optimization.md)
 6. [Innovation & Collaboration](6-innovation-collab.md)
 7. [Performance Amplifiers](7-performance-amplifiers.md)
 8. [Scaling the 10x Mindset](8-scaling-mindset.md)
