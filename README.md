@@ -13,7 +13,7 @@ This repository contains our playbook for achieving 100% team growth while enabl
 1. [Leadership, Vision and alignment with goals](norms/leadership-vision.md)
 2. [Talent Development](norms/talent-development.md)
 3. [Culture of Excellence](norms/culture-excellence.md)
-4. [Technical Leverage](4-technical-leverage.md)
+4. [Technical Leverage](norms/technical-leverage.md)
 5. [Process Optimization](5-process-optimization.md)
 6. [Innovation & Collaboration](6-innovation-collab.md)
 7. [Performance Amplifiers](7-performance-amplifiers.md)
