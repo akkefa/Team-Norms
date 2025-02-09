@@ -10,6 +10,8 @@ Psychological safety is the belief that team members can speak up, take risks, a
 
 [![Watch the video](https://img.youtube.com/vi/v2PaZ8Nl2T4/0.jpg)](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)
 
+[![Watch the video](https://img.youtube.com/vi/PYZIvlf5ROw/0.jpg)](https://www.youtube.com/watch?v=PYZIvlf5ROw)
+
 #### 1. Focus on How the Team Interacts, Not Who’s on the Team
 - **Insight:**  
   The specific individuals on the team are less important than the way they interact with each other. A team composed of strangers or even conflicting personalities can succeed if they build a strong, collaborative culture.
