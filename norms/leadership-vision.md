@@ -7,6 +7,45 @@
 Leadership sets the tone for psychological safety, motivation, and direction. Great leaders inspire engineers to take ownership, innovate, and collaborate.
 
 ### How to Achieve It
+
+#### psychological safety
+Creating psychological safety means building an environment where every team member feels safe to express ideas, admit mistakes, and take risks without fear of retribution.
+
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/v2PaZ8Nl2T4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+##### 1. Focus on How the Team Interacts, Not Who’s on the Team
+
+- **Insight:**  
+  The specific individuals on the team are less important than the way they interact with each other. A team composed of strangers or even conflicting personalities can succeed if they build a strong, collaborative culture.
+  
+- **Takeaway:**  
+  Cultivate an environment where every interaction is respectful, and every team member’s voice is valued.
+
+##### 2. Equality in Conversational Turn-Taking
+
+- **What It Means:**  
+  Every team member should have an equal opportunity to speak during meetings or discussions. No single voice should dominate the conversation.
+  
+- **Why It Matters:**  
+  Equal participation ensures that all ideas are heard, fostering a collaborative atmosphere that encourages diverse perspectives.
+
+
+##### 3. Ostentatious Listening
+
+- **What It Means:**  
+  It’s not enough to let others talk; you must visibly demonstrate that you are actively listening. This includes:
+  - Repeating or paraphrasing what someone has said to confirm understanding.
+  - Minimizing distractions (e.g., closing your computer or putting away your phone) to maintain eye contact and focus.
+  
+- **Why It Matters:**  
+  Active, demonstrative listening builds trust and reinforces that every contribution is valued, which is crucial for psychological safety.
+
+
 - **Servant Leadership**: Prioritize team needs over ego (e.g., remove blockers, provide resources).  
   - *Example*: Jeff Sutherland (Scrum co-creator) emphasizes leaders who "clear the path" for teams.
 - **Transparency**: Share context (business goals, challenges) to build trust.
