@@ -11,12 +11,7 @@ Leadership sets the tone for psychological safety, motivation, and direction. Gr
 #### psychological safety
 Creating psychological safety means building an environment where every team member feels safe to express ideas, admit mistakes, and take risks without fear of retribution.
 
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/v2PaZ8Nl2T4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/v2PaZ8Nl2T4/0.jpg)](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)
 
 ##### 1. Focus on How the Team Interacts, Not Who’s on the Team
 
