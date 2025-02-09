@@ -156,9 +156,6 @@ Each style has unique attributes and actionable norms that contribute to team su
 - **Transparency**: Share context (business goals, challenges) to build trust.
 - **Decisiveness with Flexibility:** Make informed decisions swiftly, remaining open to feedback.
 - **Modeling Behavior:** Lead by example in work ethic, creativity, and resilience.
-- **Mentorship and Continuous Learning:** Promote professional growth and provide development opportunities.
-- **Psychological Safety**: Create an environment where failure is a learning tool (see [Google’s Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/)).
-  - *Action*: Encourage open retrospectives where mistakes are discussed without blame.
 
 ### Strategies to Enhance Leadership
 
@@ -170,7 +167,6 @@ Each style has unique attributes and actionable norms that contribute to team su
 - *[Leaders Eat Last](https://simonsinek.com/books/leaders-eat-last/)* by Simon Sinek (trust and safety).
 - *[The Five Dysfunctions of a Team](https://www.tablegroup.com/books/dysfunctions)* by Patrick Lencioni (trust-building exercises).
 
----
 
 ## 2. Vision & Purpose: Aligning the Team Toward a North Star
 
