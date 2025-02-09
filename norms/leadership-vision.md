@@ -86,11 +86,74 @@ Psychological safety is the belief that team members can speak up, take risks, a
 - **Microsoft**: Teams use charters to define psychological safety expectations upfront.  
 - **Netflix**: 360-degree feedback resolves conflicts objectively.   
 
+### Leadership Styles in Engineering Teams
 
-- **Servant Leadership**: Prioritize team needs over ego (e.g., remove blockers, provide resources).  
-  - *Example*: Jeff Sutherland (Scrum co-creator) emphasizes leaders who "clear the path" for teams.
+Tech companies utilize various leadership styles to build high-performing teams. Common approaches include:
+
+- **Servant Leadership**
+- **Transformational Leadership**
+- **Coaching Leadership**
+
+Each style has unique attributes and actionable norms that contribute to team success.
+
+#### 1. Servant Leadership (Google)
+- **Empowering the Team:**
+  - **Practice:** Engineering managers remove roadblocks and streamline processes.
+  - **Action:** Facilitate cross-team collaboration and secure necessary resources.
+
+- **Supporting Personal Growth:**
+  - **Practice:** Regular one-on-one meetings are used for coaching and mentoring.
+  - **Action:** Focus on personal development and overcoming obstacles.
+
+- Enhances overall performance by focusing on the team’s needs rather than a top-down approach.
+
+#### 2. Transformational Leadership (Facebook)
+- **Inspiring a Shared Vision:**
+  - **Practice:** Managers set ambitious goals aligned with the company’s vision.
+  - **Action:** Motivate teams by sharing clear directions and encouraging bold ideas.
+
+- **Encouraging Risk-Taking:**
+  - **Practice:** Embrace a “fail fast, learn fast” culture.
+  - **Action:** Support team members in experimenting with innovative approaches.
+
+- **Empowerment Through Autonomy:**
+  - **Practice:** Delegate responsibility and trust engineers to own their projects.
+  - **Action:** Allow engineers to take full ownership, driving innovation and accountability.
+
+- Fosters an environment where change and experimentation are welcomed.
+
+#### 3. Coaching Leadership (A Blended Approach)
+- **Focused Feedback and Mentorship:**
+  - **Practice:** Managers provide continuous feedback and set clear personal development goals.
+  - **Action:** Hold regular discussions on career progress and skill enhancement.
+
+- **Encouraging Self-Reflection:**
+  - **Practice:** Help team members identify their strengths and areas for improvement.
+  - **Action:** Foster a growth mindset and individual accountability.
+
+- **Building Team Capability:**
+  - **Practice:** Facilitate peer-learning sessions such as code reviews and retrospectives.
+  - **Action:** Encourage experienced engineers to mentor junior members.
+
+- Strengthens team dynamics through shared learning.
+
+#### Actionable Team Norms
+1. **Regular One-on-Ones:**
+   - Schedule weekly or bi-weekly meetings to discuss personal growth, challenges, and career goals.
+
+2. **Transparent Communication:**
+   - Ensure every team member gets equal time to share ideas.
+   - Employ techniques such as “ostentatious listening” (e.g., closing your laptop to maintain eye contact or paraphrasing what’s been said).
+
+3. **Empowerment and Ownership:**
+   - Delegate responsibility by allowing engineers to own projects from start to finish.
+   - Encourage viewing risks as learning opportunities; share “lessons learned” after experiments or failures.
+
+4. **Clear Goal Setting:**
+   - Utilize frameworks like OKRs (Objectives and Key Results) to align individual and team efforts with broader company goals.
+
+
 - **Transparency**: Share context (business goals, challenges) to build trust.
-- **Empathy and Active Listening:** Understand the challenges, aspirations, and ideas of your team members.
 - **Decisiveness with Flexibility:** Make informed decisions swiftly, remaining open to feedback.
 - **Modeling Behavior:** Lead by example in work ethic, creativity, and resilience.
 - **Mentorship and Continuous Learning:** Promote professional growth and provide development opportunities.
