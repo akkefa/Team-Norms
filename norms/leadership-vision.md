@@ -3,40 +3,30 @@
 
 ## 1. Leadership: The Foundation of High-Performing Teams
 
-### Why It Matters
 Leadership sets the tone for psychological safety, motivation, and direction. Great leaders inspire engineers to take ownership, innovate, and collaborate.
 
-### How to Achieve It
-
-#### psychological safety
-Creating psychological safety means building an environment where every team member feels safe to express ideas, admit mistakes, and take risks without fear of retribution.
+### psychological safety
+Psychological safety is the belief that team members can speak up, take risks, and be vulnerable without fear of punishment or humiliation. Teams with high psychological safety outperform others in productivity, innovation, and retention (as proven by Google’s Project Aristotle).
 
 [![Watch the video](https://img.youtube.com/vi/v2PaZ8Nl2T4/0.jpg)](https://www.youtube.com/watch?v=v2PaZ8Nl2T4)
 
-##### 1. Focus on How the Team Interacts, Not Who’s on the Team
-
+#### 1. Focus on How the Team Interacts, Not Who’s on the Team
 - **Insight:**  
   The specific individuals on the team are less important than the way they interact with each other. A team composed of strangers or even conflicting personalities can succeed if they build a strong, collaborative culture.
-  
 - **Takeaway:**  
   Cultivate an environment where every interaction is respectful, and every team member’s voice is valued.
 
-##### 2. Equality in Conversational Turn-Taking
-
+#### 2. Equality in Conversational Turn-Taking
 - **What It Means:**  
   Every team member should have an equal opportunity to speak during meetings or discussions. No single voice should dominate the conversation.
-  
 - **Why It Matters:**  
   Equal participation ensures that all ideas are heard, fostering a collaborative atmosphere that encourages diverse perspectives.
 
-
-##### 3. Ostentatious Listening
-
+#### 3. Ostentatious Listening
 - **What It Means:**  
   It’s not enough to let others talk; you must visibly demonstrate that you are actively listening. This includes:
   - Repeating or paraphrasing what someone has said to confirm understanding.
   - Minimizing distractions (e.g., closing your computer or putting away your phone) to maintain eye contact and focus.
-  
 - **Why It Matters:**  
   Active, demonstrative listening builds trust and reinforces that every contribution is valued, which is crucial for psychological safety.
 
