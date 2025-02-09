@@ -30,6 +30,62 @@ Psychological safety is the belief that team members can speak up, take risks, a
 - **Why It Matters:**  
   Active, demonstrative listening builds trust and reinforces that every contribution is valued, which is crucial for psychological safety.
 
+#### 4. Model Vulnerability as a Leader 
+- **What to Do**: Admit mistakes publicly. Start meetings with statements like:  
+  > *“I underestimated the timeline for Project X. Here’s how I’ll fix it.”*  
+- **Why It Works**: Normalizes imperfection and encourages risk-taking.  
+
+#### 5. Create Safe Spaces for Feedback
+- **What to Do**:  
+  - Host weekly **“Safety Check-Ins”** with prompts like:  
+    > *“What’s one thing you’re afraid to say out loud?”*  
+  - Use anonymous tools (e.g., Mentimeter, Google Forms).  
+- **Why It Works**: Surfaces hidden concerns and builds trust.  
+
+#### 6. Turn Failures into Learning
+- **What to Do**: Run **blameless post-mortems** after setbacks. Ask:
+  > *“What did we learn?”* instead of *“Who’s responsible?”*  
+- **Why It Works**: Shifts focus from blame to growth.  
+
+#### 7. Democratize Decision-Making 
+- **What to Do**: Before finalizing decisions, ask:  
+  > *“What’s one risk or idea we’re missing?”*
+  Use round-robin brainstorming to ensure everyone speaks.  
+- **Why It Works**: Leverages diverse perspectives.  
+
+#### 8. Co-Create Team Norms
+- **What to Do**: Draft a **Team Charter** with rules like:  
+  > *“No interrupting,” “Assume positive intent.”*  
+- **Why It Works**: Creates shared accountability.  
+
+#### 9. Support Mental Health 
+- **What to Do**:  
+  - Offer mindfulness app subscriptions (e.g., Headspace).  
+  - Implement **“No-Meeting Wednesdays”** to reduce burnout.  
+- **Why It Works**: Reduces stress and boosts engagement.    
+
+#### 10. Resolve Conflict with SBI 
+- **What to Do**: Use the **SBI Feedback Model**:  
+  > *“When you [Situation], I felt [Behavior], because [Impact].”*  
+- **Why It Works**: Focuses on issues, not personalities.  
+
+#### 11. Measure Progress Quarterly  
+- **What to Do**: Use Amy Edmondson’s 7-question survey:  
+  > *“Is it safe to take risks here?”*  
+- **Why It Works**: Tracks safety metrics over time.  
+
+#### 12. Act on Feedback Transparently 
+- **What to Do**: After feedback, share actionable next steps:  
+  > *“We’ll adjust deadlines to reduce crunch time.”*  
+- **Why It Works**: Builds trust in leadership.  
+
+#### Examples from Industry Leaders  
+- **Google**: Managers share mistakes in “TGIF” meetings. Post-mortems are documented company-wide.  
+- **Meta**: “Fearless Feedback Fridays” allow candid discussions without hierarchy.  
+- **Amazon**: “Disagree and Commit” culture mandates seeking dissent before decisions.  
+- **Microsoft**: Teams use charters to define psychological safety expectations upfront.  
+- **Netflix**: 360-degree feedback resolves conflicts objectively.   
+
 
 - **Servant Leadership**: Prioritize team needs over ego (e.g., remove blockers, provide resources).  
   - *Example*: Jeff Sutherland (Scrum co-creator) emphasizes leaders who "clear the path" for teams.
